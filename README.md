@@ -48,7 +48,7 @@ Requirements enginnering plays a crucial role in software development lifecycle 
 
 Software Design Principles:
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
-Modularity in software design refers to the practice of dividing software into separate ,independent nodules,each responsible for a distinct functionality.This process isolates functional boundaries ,making it easier to manage and evolve complex systems.
+Modularity in software design refers to the practice of dividing software into separate ,independent modules,each responsible for a distinct functionality.This process isolates functional boundaries ,making it easier to manage and evolve complex systems.
 
 Modularity in software improves the Maintanability and scalability of software systems by :
 
